@@ -1,11 +1,10 @@
 # Stock-Analysis with VBA
 ## Overview of Project
 ### Purpose
----
 The purpose of this challenge was to see if refactoring the VBA code we used in our first analysis would make it more efficient, so as to be able to use it on bigger datasets in the future.
+
 ## Results
 ### Stock Analysis
----
 Simply by looking at the results of the analysis on the stocks in 2017 as compared to 2018, we can see the stock market return was significantly better in 2017 as opposed to 2018.
 
 #### Stock Analysis Comparison
