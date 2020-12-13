@@ -6,7 +6,7 @@ The purpose of this challenge was to see if refactoring the VBA code we used at 
 ## Results
 ### Difference between original and refactored code
 ---
-Simply by looking at the results of the analysis on the stocks in 2017 as compared to 2018, we can see the market performed significantly better in 2017 as opposed to 2018.
+Simply by looking at the results of the analysis on the stocks in 2017 as compared to 2018, we can see the stock market return was significantly better in 2017 as opposed to 2018.
 
 ![Stock Analysis 2017](https://github.com/jlozano1990/stock-analysis/blob/main/stock%20analysis%202017.PNG)
 ![Stock Analysis 2018](https://github.com/jlozano1990/stock-analysis/blob/main/stock%20analysis%202018.PNG)
