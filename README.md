@@ -15,10 +15,10 @@ Simply by looking at the results of the analysis on the stocks in 2017 as compar
 #### Difference between original code and refactored code
 When running the analysis on both datasets, the original code and the refactored code both produce the same results on the datasets. However, the refactored code seems to produce the results in a  more efficient manner. The refactored code was significantly faster(and cleaner) than the original code.
 
-#### Original Code Time
+##### Original Code Time
 ![Original Code](https://github.com/jlozano1990/stock-analysis/blob/main/All_stocks_analysis_2017.PNG)
 ![Original Code](https://github.com/jlozano1990/stock-analysis/blob/main/All_stocks_analysis_2018.PNG)
 
-#### Refactored Code Time
+##### Refactored Code Time
 ![Refactored Code](https://github.com/jlozano1990/stock-analysis/blob/main/VBA_Challenge_2017.PNG)
 ![Refactored Code](https://github.com/jlozano1990/stock-analysis/blob/main/VBA_Challenge_2018.PNG)
